@@ -5,7 +5,6 @@
 # c. Find area of square and rectangle (side * side)(length * breath)
 # d. Find Simple Interest 
 
-# Menu-driven program
 print("----- MENU -----")
 print("1. Area of Circle")
 print("2. Area of Triangle")
